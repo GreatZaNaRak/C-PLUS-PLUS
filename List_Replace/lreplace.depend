@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542655834 source:c:\users\user\desktop\work-code\c++\list_replace\main.cpp
+	<stdexcept>
+	<iostream>
+	<vector>
+	"replace.h"
+
+1542656060 c:\users\user\desktop\work-code\c++\list_replace\replace.h
+

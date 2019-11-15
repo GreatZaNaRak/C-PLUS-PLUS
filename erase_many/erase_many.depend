@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1456245226 source:c:\users\user\desktop\c++\erase_many\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1456244981 c:\users\user\desktop\c++\erase_many\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538308052 c:\users\user\desktop\c++\erase_many\student.h
+

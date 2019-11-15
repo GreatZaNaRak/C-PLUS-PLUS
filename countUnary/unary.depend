@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541875250 source:c:\users\user\desktop\work-code\c++\countunary\main.cpp
+	<vector>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+
+1541875186 c:\users\user\desktop\work-code\c++\countunary\map_bst.h
+	<iostream>
+
+1542730883 c:\users\user\desktop\work-code\c++\countunary\student.h
+

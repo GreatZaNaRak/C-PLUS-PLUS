@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1538322266 source:c:\users\user\desktop\c++\vectorequal\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1537890999 c:\users\user\desktop\c++\vectorequal\vector.h
+	<stdexcept>
+	<iostream>
+
+1537891286 c:\users\user\desktop\c++\vectorequal\student.h
+
+1537287150 c:\users\user\desktop\c++\vectorequal\great.h
+	<vector>
+
+1539171221 source:c:\users\user\desktop\work-code\c++\vectorequal\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1539171542 c:\users\user\desktop\work-code\c++\vectorequal\vector.h
+	<stdexcept>
+	<iostream>
+
+1537891286 c:\users\user\desktop\work-code\c++\vectorequal\student.h
+

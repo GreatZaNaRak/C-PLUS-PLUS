@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1536495169 source:c:\users\user\desktop\c++\postfix\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"student.h"
+
+1538061228 c:\users\user\desktop\c++\postfix\student.h
+	<vector>
+

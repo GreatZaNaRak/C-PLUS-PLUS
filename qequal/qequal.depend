@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1538131307 source:c:\users\user\desktop\c++\qequal\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdexcept>
+	<iostream>
+	"queue.h"
+	"student.h"
+	<vector>
+
+1538131182 c:\users\user\desktop\c++\qequal\queue.h
+	<stdexcept>
+	<iostream>
+
+1538131377 c:\users\user\desktop\c++\qequal\student.h
+	<queue>
+	<vector>
+

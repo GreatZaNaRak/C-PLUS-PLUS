@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1537772726 source:c:\users\user\desktop\c++\q_to_vec\main.cpp
+	<iostream>
+	<stack>
+	<assert.h>
+	"queue.h"
+	"student.h"
+
+1456244793 c:\users\user\desktop\c++\q_to_vec\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538315066 c:\users\user\desktop\c++\q_to_vec\student.h
+	<vector>
+	<iterator>
+
+1538827570 source:c:\users\user\desktop\work-code\c++\q_to_vec\main.cpp
+	<iostream>
+	<stack>
+	<assert.h>
+	"queue.h"
+	"student.h"
+	<queue>
+
+1538827710 c:\users\user\desktop\work-code\c++\q_to_vec\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538317371 c:\users\user\desktop\work-code\c++\q_to_vec\student.h
+	<vector>
+	<iterator>
+

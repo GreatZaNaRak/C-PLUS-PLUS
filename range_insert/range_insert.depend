@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1537958502 source:c:\users\user\desktop\c++\range_insert\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1537958385 c:\users\user\desktop\c++\range_insert\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538028331 c:\users\user\desktop\c++\range_insert\student.h
+
+1542807330 source:c:\users\user\desktop\work-code\c++\range_insert\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1538313059 c:\users\user\desktop\work-code\c++\range_insert\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538313109 c:\users\user\desktop\work-code\c++\range_insert\student.h
+	<vector>
+

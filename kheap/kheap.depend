@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1427808804 source:c:\users\user\desktop\work-code\c++\kheap\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	"priority_queue.h"
+	"student.h"
+
+1427808558 c:\users\user\desktop\work-code\c++\kheap\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1541952924 c:\users\user\desktop\work-code\c++\kheap\student.h
+	"priority_queue.h"
+	<iostream>
+

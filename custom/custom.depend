@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1538736400 source:c:\users\user\desktop\work-code\c++\custom\main.cpp
+	<iostream>
+	<vector>
+	"song.h"
+
+1538746622 c:\users\user\desktop\work-code\c++\custom\song.h
+	<iostream>
+	<queue>
+	<string>
+	<vector>
+	"priority_queue.h"
+
+1459277820 c:\users\user\desktop\work-code\c++\custom\priority_queue.h
+	<stdexcept>
+	<iostream>
+

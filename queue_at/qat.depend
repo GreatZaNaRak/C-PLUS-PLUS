@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1537557421 source:c:\users\user\desktop\c++\queue_at\main.cpp
+	<stdexcept>
+	<iostream>
+	"queue.h"
+	"student.h"
+	<vector>
+
+1537519087 c:\users\user\desktop\c++\queue_at\queue.h
+	<stdexcept>
+	<iostream>
+
+1538117189 c:\users\user\desktop\c++\queue_at\student.h
+
+1544623622 source:c:\users\user\desktop\work-code\c++\queue_at\main.cpp
+	<stdexcept>
+	<iostream>
+	"queue.h"
+	"student.h"
+	<vector>
+
+1544623857 c:\users\user\desktop\work-code\c++\queue_at\queue.h
+	<stdexcept>
+	<iostream>
+
+1538117189 c:\users\user\desktop\work-code\c++\queue_at\student.h
+

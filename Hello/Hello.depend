@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1538311307 source:c:\users\user\desktop\c++\hello\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+	<vector>
+	<map>
+
+1542357351 source:c:\users\user\desktop\work-code\c++\hello\main.cpp
+	<list>
+	<vector>
+	<iterator>
+	"stdio.h"
+	<iostream>
+
+1538470083 c:\users\user\desktop\work-code\c++\hello\test.h
+	<iostream>
+	<queue>
+	<algorithm>
+	<vector>
+	<queue>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1544293856 source:c:\users\user\desktop\work-code\c++\listremove\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"student.h"
+
+1544293870 c:\users\user\desktop\work-code\c++\listremove\list.h
+	<stdexcept>
+	<iostream>
+
+1542648061 c:\users\user\desktop\work-code\c++\listremove\student.h
+

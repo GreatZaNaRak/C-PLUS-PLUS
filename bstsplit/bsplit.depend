@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1542620887 source:c:\users\user\desktop\work-code\c++\bstsplit\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"map_bst.h"
+	"student.h"
+	<algorithm>
+
+1542542296 c:\users\user\desktop\work-code\c++\bstsplit\map_bst.h
+	<iostream>
+
+1542806908 c:\users\user\desktop\work-code\c++\bstsplit\student.h
+

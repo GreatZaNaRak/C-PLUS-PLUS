@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1509889630 source:c:\users\user\desktop\c++\split_queue\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+
+1509889462 c:\users\user\desktop\c++\split_queue\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538223496 c:\users\user\desktop\c++\split_queue\student.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<queue>
+	"queue.h"
+
+1509889630 source:c:\users\user\desktop\work-code\c++\split_queue\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+
+1509889462 c:\users\user\desktop\work-code\c++\split_queue\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1539182886 c:\users\user\desktop\work-code\c++\split_queue\student.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<queue>
+	"queue.h"
+

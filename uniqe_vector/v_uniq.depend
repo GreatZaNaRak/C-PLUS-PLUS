@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1508116978 source:c:\users\user\desktop\work-code\c++\uniqe_vector\main.cpp
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507942112 c:\users\user\desktop\work-code\c++\uniqe_vector\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538567564 c:\users\user\desktop\work-code\c++\uniqe_vector\student.h
+	<algorithm>
+	<set>
+

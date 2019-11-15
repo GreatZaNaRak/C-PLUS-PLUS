@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1541704253 source:c:\users\user\desktop\work-code\c++\heap_equal\main.cpp
+	<stdexcept>
+	<iostream>
+	"priority_queue.h"
+	"student.h"
+	<vector>
+
+1541704136 c:\users\user\desktop\work-code\c++\heap_equal\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1541704112 c:\users\user\desktop\work-code\c++\heap_equal\student.h
+
